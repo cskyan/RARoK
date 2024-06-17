@@ -1,4 +1,4 @@
-# RARoK
+# RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering
 <div align=center><img src="figure/RARoK.jpg"></div>
 
 ## Abstract 
